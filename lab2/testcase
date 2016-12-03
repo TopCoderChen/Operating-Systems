@@ -1,0 +1,10 @@
+
+test case still needed:
+	
+	statistics
+	
+	pool: free_objects, whole_superblocks(要用复杂一点的Malloc free来测)
+	bookp:: free_count
+	poison_value
+	segmentation fault
+
